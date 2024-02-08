@@ -116,9 +116,9 @@ If you've already started implementing your project or it is part of a larger re
 ## Development Roadmap :nut_and_bolt:
 
 
-- FRONTEND: Progressive Web App showcasing modern web3 UX + Mintbase wallet.
-- AI: AI assisted UX flow for listing items and creating phygital NFTs.  Field autofill / assistance using AI image analysis.
-- SMART CONTRACT: Private NFT/Listing attributes (inspired by research from opensecret.xyz)
+- FRONTEND:  Progressive Web App showcasing modern web3 UX + Mintbase wallet.
+- AI:  AI assisted UX flow for listing items and creating phygital NFTs.  Field autofill / assistance using AI image analysis.
+- SMART CONTRACT:  Private NFT/Listing attributes (inspired by research from opensecret.xyz) 
  
 
 Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Mintbase. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
